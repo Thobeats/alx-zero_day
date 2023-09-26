@@ -1,1 +1,1 @@
-another README on 0x03-git
+I am an ALX Software Engineering Student
